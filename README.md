@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [www.emiliarojo.com](www.emiliarojo.com)
 
-- 📫 How to reach me **emiliamrojo@gmail.com**
+- 📫 How to reach me **info@emiliarojo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
