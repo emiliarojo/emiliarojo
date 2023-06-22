@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **emiliamrojo@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/emilia-rojo/overlay/1635517716483/single-media-viewer/?profileId=ACoAADX6JQMBN6Qwk_8uiyCgv99JE2vwIczL1uU](https://www.linkedin.com/in/emilia-rojo/overlay/1635517716483/single-media-viewer/?profileId=ACoAADX6JQMBN6Qwk_8uiyCgv99JE2vwIczL1uU)
+- 📄 Know about my experiences [https://www.linkedin.com/in/emilia-rojo)
 
 - ⚡ Fun fact **I am a certified personal trainer.**
 
