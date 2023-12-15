@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>👩🏻‍💻 Find my projects at https://www.emiliarojo.com<br>📚 I'm currently learning Spring Boot + React<br>🎲 Fun fact: I'm a certified personal trainer</p>
+<p align="left">✨  Creating bugs since 2022<br>👩🏻‍💻  Find my projects at https://www.emiliarojo.com<br>📚  I'm currently learning Spring Boot + React<br>🎲  Fun fact: I'm a certified personal trainer</p>
 
 ###
 
