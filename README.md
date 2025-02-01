@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Emilia and I'm a full-stack software developer and designer from the US.</p>
+<p align="left">My name is Emilia and I'm a full-stack software developer and designer.</p>
 
 ###
 
